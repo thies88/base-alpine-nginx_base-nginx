@@ -1,4 +1,4 @@
-FROM thies88/base-alpine-nginx_base
+FROM thies88/alpine-nginx-base
 
 # set version label
 ARG BUILD_DATE
